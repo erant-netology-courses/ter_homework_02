@@ -25,4 +25,5 @@ terraform output
 var.test[0].dev1[0]
 
 ## Задание 9*
+
 <img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/9.JPG" />
