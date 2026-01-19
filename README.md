@@ -5,9 +5,9 @@
 
 6 - денег сэкономят
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/1.JPG" />
+<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/blob/main/1.JPG?raw=true" />
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/1_console.JPG" />
+<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/blob/main/1_console.JPG?raw=true" />
 
 ## Задание 4
 terraform output
@@ -26,4 +26,5 @@ var.test[0].dev1[0]
 
 ## Задание 9*
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/9.JPG" />
+<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_02/blob/main/9.JPG?raw=true" />
+
